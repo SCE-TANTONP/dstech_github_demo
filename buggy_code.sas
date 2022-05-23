@@ -1,5 +1,5 @@
 /**This code contains bug.**/
 proc sql;
-select * from buggy code;
+select * from work.buggycode;
 ;
 run;
